@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
+
 - **Backend API:** [https://booker-made.onrender.com/api](https://booker-made.onrender.com/api)
 
 ---
