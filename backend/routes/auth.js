@@ -10,7 +10,7 @@ const generateUserId = require('../utils/generateUserId');
 const JWT_SECRET = process.env.JWT_SECRET || 'your_jwt_secret_key';
 
 
-
+// mongodb solved 
 // @route   POST /auth/register
 // @desc    Register a new driver or maid
 // @access  Public
